@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the most material objections made by the Linnen-Drapers, against the bill which restrains the wearing East-India wrought silks, &amp;c. in England; humbly submitted to the consideration of the most honourable House of Lords.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17161</idno><idno type="EEBO-CITATION">99885970</idno>
+  <idno type="VID">186337</idno>
+  <idno type="EEBO-PROQUEST">2240902147</idno>
+  
+            <idno type="STC">Wing A3426</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[139]</idno>
+            <idno type="STC">ESTC R225242</idno>
+            <idno type="PROQUEST">ocm99885970</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885970e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186337)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[134])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the most material objections made by the Linnen-Drapers, against the bill which restrains the wearing East-India wrought silks, &amp;c. in England; humbly submitted to the consideration of the most honourable House of Lords.</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With a docket title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">East India Company --  Early works to 1800.</term>
+               <term type="topical_term">Textile industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Silk industry --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  India --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:186337:1"/>
+            <pb facs="tcp:186337:1"/>
+            <head>
+               <hi>AN ANSWER TO THE <hi>Most Material Objections</hi> Made by the LINNEN-DRAPERS,</hi> Against the Bill which restrains the Wearing <hi>East-India</hi> wrought Silks, <hi>&amp;c.</hi> in <hi>England;</hi> Humbly Submitted to the Consideration of the Most Honoura<g ref="char:EOLhyphen"/>ble House of Lords.</head>
+            <p>Object. <hi>THAT the Weavers are now so full of Employment, That if this Bill should pass, there would be so great a want of Hands, they would raise the prices of their Goods to an Extravagant Rate.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> That in the Spring of the Year, the <hi>Weavers</hi> of <hi>London, Norwich, Canterbury,</hi> &amp;c. (since the scarcity and dearness of <hi>East-India</hi> Silks) have been well Employed; but in the latter part of the Year, there is generally in these Places great Numbers which want work; besides there are a great many large Towns in <hi>England,</hi> where there is no Manufacture of any sort, in which there are vast Numbers of Poor which want Work, and wholly subsist on the Bounty of their Neighbours and Parishes, which if this Bill pass may be Employ<g ref="char:EOLhyphen"/>ed in these Manufactures: And its morally impossible for such Multitudes of Peo<g ref="char:EOLhyphen"/>ple, at so many differing Places, and of so many different Interests to combine to<g ref="char:EOLhyphen"/>gether to keep up Prices for Goods, beyond their real value; and as our Manu<g ref="char:EOLhyphen"/>factures encrease, the <hi>Merchants</hi> will give larger Orders for raw Silk, and thereby Export more of our Woollen Manufactures; the <hi>Farmers</hi> will encrease his breed of Sheep all over the Kingdom; there being large tracts of Land (which now are useless) very proper for that purpose, to the great Encouragement of the Owners and Proprietors thereof.</p>
+            <p>Object. <hi>That the wearing our own Manufactures at home, does not make us the Richer; and that its the Interest of the Nation to wear</hi> East-India <hi>Goods which are cheap, and Export our own which are dearer.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> It's true, That what we consume at home of our own Manufactures does not make us the Richer. But it is as true, that whatever we consume at home of Forreign Manufactures purchased with our <hi>Bullion</hi> (as <hi>East-India wrought Silks and Callicoes,</hi> &amp;c.) does really make us so much the Poorer, as is the Cost of those Manufactures. And for the other part of the Objection, there can be no Argu<g ref="char:EOLhyphen"/>ment in it, unless the <hi>Linnen Drapers</hi> could make out, that the more we consume of <hi>East-India</hi> Goods at home, the more we should send abroad of our own, which they have not, nor cannot pretend to Demonstrate. But the contrary is manifest, if it be considered, that <hi>Turkey</hi> and <hi>Italy,</hi> which takes off most of our Woollen Manufactures, can send us nothing in return of our Manufactures, but <hi>Raw Silk,</hi> and <hi>Grogorum Yarn,</hi> which can be of no use to us, if by wearing <hi>East-India Silks,</hi> &amp;c. we destroy those Manufactures which work up this Silk and Yarn; so that the plain Consequence will be this: Wearing <hi>East-India Silks,</hi> &amp;c. at home, will force us to quit those profitable Trades of <hi>Turkey</hi> and <hi>Italy,</hi> which take off vast quanti<g ref="char:EOLhyphen"/>ties of our Woollen Manufactures, and leave them to the <hi>Dutch</hi> and <hi>French,</hi> and will thereby greatly destroy the Exportation of our Woollen Manufactures abroad, and impoverish <hi>Four or Five Hundred Thousand Persons,</hi> who depend on these Manu<g ref="char:EOLhyphen"/>factures at home.</p>
+            <p>Object. <hi>That if</hi> India Silks, <hi>and</hi> Printed Callicoes <hi>are not worn in</hi> England, <hi>we shall use</hi> Dutch <hi>and</hi> Italian <hi>Silks, and</hi> German <hi>and</hi> Scotch <hi>Linnen in their Place, which will cost the Nation Dearer.</hi>
+            </p>
+            <pb facs="tcp:186337:2"/>
+            <p>
+               <hi>Answ.</hi> The <hi>Parliament</hi> of <hi>England,</hi> has at all times had such a particular Care of the <hi>Manufactures of England,</hi> that there has been such Prohibitions and Impositions on Forreign Manufactures, that the Manufacturors do now labour under no great difficulties from any Place but <hi>India.</hi> For about Seven Years since there was an ad<g ref="char:EOLhyphen"/>ditional Duty laid on all <hi>Dutch</hi> and <hi>Italian</hi> wrought Silks; that with what was paid before, there is now 20 <hi>per Cent.</hi> on all Silks from those Countries, which has so hindred the <hi>Dutch</hi> from Importing flowred Silks upon us, that there has not been so much as one Case of these Goods Imported these Six Years; nor is it possible for them to do it, whilst this Duty continues. And for the <hi>Italians,</hi> their Imports on us since this Act, has yearly declined, and are now so inconsiderable, that they are not worth the Name of Importation, the <hi>English</hi> Manufacturers being now come to so great a Perfection, that they make them better, and (by vertue of the Duty) do also af<g ref="char:EOLhyphen"/>ford them Cheaper than the <hi>Dutch</hi> or <hi>Italians</hi> can possibly do. And since those Countries which take off so many of our Manufactures, are already taken care of by the Parliament, that they cannot hurt us. The Manufacturers make no questi<g ref="char:EOLhyphen"/>on, but that this most Honourable House will join with the Commons of <hi>England</hi> in passing this Bill, which only hinders the home Consumption of those Goods which are bought with our Money in <hi>India,</hi> and will inevitably destroy so many <hi>Thousand Families:</hi> And for the <hi>Scotch</hi> and <hi>German</hi> Linnens, what they object will be used instead of <hi>Painted Callicoes,</hi> and will cost the Nation dearer. There is no necessity for their use; for we now make such variety of things in <hi>England,</hi> with Silk and Worsted, and with Cotten Yarn from our Plantations, that do in a great measure supply the uses of those Linnens. Besides it's Humbly Submitted, Whether it be not much better to Encourage the Linnens of those Nations (though dearer) which take off our Woollen Manufactures, as <hi>Scotland</hi> and <hi>Germany</hi> does in considerable quantities; then the Painted Linnens from <hi>India</hi> (though cheaper) which does not, nor cannot Consume any quantity of our Manufactures; there being now within these few days, Letters from <hi>India</hi> which give an Account, that the Cloth which has been sent thither, is <hi>so burthensome,</hi> that they know not what to do with it, there being no Sale for it in that Hot Country. And whatever is Ex<g ref="char:EOLhyphen"/>ported by the Company, must of necessity be sent into <hi>Persia,</hi> which will conse<g ref="char:EOLhyphen"/>quently oblige the <hi>Turkey Merchants</hi> to send the lesser quantities into those Places, and so no Advantage to this Kingdom.</p>
+            <p>Object. <hi>That this Prohibition will abate the King's Customs.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> The Abatements in Customs in these Goods will be but small, in regard there will be much greater quantities of <hi>China</hi> Raw Silk, Cotton and Bengal Im<g ref="char:EOLhyphen"/>ported, then would otherwise be done; and the small Abatement that may be will be inconsiderable, if compared with the greater Loss that will be on the Customs of <hi>Tobacco, Brandy,</hi> &amp;c. and <hi>Excise</hi> on <hi>Beer,</hi> &amp;c. if the Employment of the Poor be taken away, and they <hi>obliged to go to Foreign Nations</hi> for want of Work.</p>
+            <p>Arguments might be Raised for the Bill <hi>ad Infinitum,</hi> but the Manufacturers of <hi>England,</hi> do so entirely depend on your <hi>Lordships,</hi> that they will only add their Prayers, that the <hi>Blessings of Heaven</hi> may always accompany your Lordships and your Posterity, for the constant <hi>encouragement</hi> that has been (and we trust will be) given by your <hi>Lordships,</hi> to the Multitudes of Poor Families of your own Native Country.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>An ANSWE<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> TO THE <hi>Most Material Objecti<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Made by the <hi>Linnen-Dra<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> against the Bill which<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>strains the Wearing <hi>E<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> India</hi> Wrought Silks, <hi>&amp;<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> England.</hi>
+            </p>
+            <pb facs="tcp:186337:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
